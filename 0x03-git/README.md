@@ -1,2 +1,2 @@
-This is my first not empty README.md file
+My first README.md update generated from GitHub.com
 
